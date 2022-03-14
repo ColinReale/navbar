@@ -1,0 +1,47 @@
+  
+  nav {
+      height: 10%;
+    display: flex;
+    color: #f9fcf0;
+    align-items: center;
+    background-color: black;
+  } 
+
+  
+  .A {
+    color: #f9fcf0;
+    background-color: purple;
+    border: none;
+  }
+
+  .B {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .C {
+    display: flex;
+    flex-direction: column;
+  }
+
+ ul { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  } 
+
+  .img1 {
+    width: 15px;
+  }
+
+  #imageline {
+      padding: 1px;
+  }
+
+  
+  .img2 {
+    width: 25px;
+  }
+  
